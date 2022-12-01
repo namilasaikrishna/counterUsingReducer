@@ -1,0 +1,25 @@
+.increment{
+    background-color: green;
+    color: #ffffff;
+    border: 0; 
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+}
+.decrement{
+    background-color: red;
+    color: #ffffff;
+    border: 0; 
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+}
+.Reset{
+    background-color: blue;
+    color: #ffffff;
+    border: 0; 
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+}
